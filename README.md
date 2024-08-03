@@ -1,4 +1,4 @@
-[![MasterHead](https://medium.com/@ahmedfawzy_)](https://medium.com/@ahmedfawzy_)
+[![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)](https://medium.com/@ahmedfawzy_)
 <h1 align="center">Hi 👋, I'm Ahmed Fawzy</h1>
 <h3 align="center">A passionate about data science and AI</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*TjXUGjDSTAR-H3O2M9M50A.gif">
