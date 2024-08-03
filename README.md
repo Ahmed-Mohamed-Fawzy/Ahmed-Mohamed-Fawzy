@@ -1,4 +1,4 @@
-[![MasterHead](https://medium.com/@ahmedfawzy_)](https://rishavchanda.io)
+[![MasterHead](https://medium.com/@ahmedfawzy_)](https://medium.com/@ahmedfawzy_)
 <h1 align="center">Hi 👋, I'm Ahmed Fawzy</h1>
 <h3 align="center">A passionate about data science and AI</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*TjXUGjDSTAR-H3O2M9M50A.gif">
